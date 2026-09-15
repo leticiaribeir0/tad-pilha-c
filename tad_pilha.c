@@ -1,8 +1,8 @@
 #include "tad_pilha.h"
-
 #include <stdio.h>
 #include <stdlib.h>
 #include "tad_pilha.h"
+
 struct no {
     char caracter;
     noChar *prox;
