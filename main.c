@@ -2,7 +2,6 @@
 #include "tad_pilha.h"
 
 int main() {
-    //DECLARAÇÃO DE VARIÁVEIS
     int res;
     char entrada[30];
     pChar *p = criaPilha();
